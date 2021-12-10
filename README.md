@@ -1,3 +1,4 @@
 # Batalha-naval
-  Jogo em C
-  Versão em inglês está completa e rodando.
+  Batalha naval feito em C
+## Divirta-se
+  
