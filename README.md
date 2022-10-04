@@ -1,4 +1,4 @@
 # Batalha-naval
-  Batalha naval feito em C
+  Jogo criado em C de acordo com as especificações dadas pelo professor que ministrava a matéria Programação Procedimental.
 ## Divirta-se
   
